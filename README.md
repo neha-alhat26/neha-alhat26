@@ -4,11 +4,7 @@
 Java Backend Developer • AI Engineering Enthusiast
 </h3>
 
-<p align="center">
-  <a href="https://github.com/neha-alhat26">
-    <img src="https://komarev.com/ghpvc/?username=neha-alhat26&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-</p>
+
 
 ---
 
