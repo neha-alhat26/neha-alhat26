@@ -10,7 +10,7 @@ Java Backend Developer • AI Engineering Enthusiast
 
 ## 👩‍💻 About Me
 
-I'm a Java backend developer in the making, focused on building **backend applications, REST APIs, and AI-powered solutions**.
+I'm a Java backend developer, focused on building **backend applications, REST APIs, and AI-powered solutions**.
 
 I'm particularly interested in combining **Java backend development with modern AI technologies** to build practical and intelligent applications.
 
