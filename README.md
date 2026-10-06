@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neha Alhat</h1>
 
 <h3 align="center">
-  Java Backend Developer • AI Engineering Enthusiast • Final-Year CS Student
+Java Backend Developer • AI Engineering Enthusiast
 </h3>
 
 <p align="center">
   <a href="https://github.com/neha-alhat26">
     <img src="https://komarev.com/ghpvc/?username=neha-alhat26&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/neha-alhat26?tab=followers">
-    <img src="https://img.shields.io/github/followers/neha-alhat26?label=Followers&style=flat" alt="GitHub followers"/>
   </a>
 </p>
 
@@ -17,27 +14,26 @@
 
 ## 👩‍💻 About Me
 
-I'm a final-year Computer Science student from India, currently building my skills in **Java backend development** and **AI engineering**.
+I'm a Java backend developer in the making, focused on building **backend applications, REST APIs, and AI-powered solutions**.
 
-I'm focused on learning how to build reliable backend systems while exploring how modern AI can be integrated into real-world applications.
+I'm particularly interested in combining **Java backend development with modern AI technologies** to build practical and intelligent applications.
 
 - 🔭 Currently working on **AI Powered Customer Feedback Intelligence System**
-- 🌱 Currently learning **Core Java → Spring Boot → Backend Development**
-- 🤖 Exploring **AI Agents, RAG, LLM applications & AI engineering**
+- 🌱 Building skills in **Java, Spring Boot & Backend Development**
+- 🤖 Exploring **AI Agents, RAG, LLM Applications & AI Engineering**
 - 💻 Interested in **Backend Development, APIs, Databases & Cloud**
-- 🧠 Practicing **DSA and problem solving with Python**
-- 🚀 Building projects to become **job-ready as a backend developer**
-- 📍 Based in **India**
+- 🧠 Practicing **DSA with Python**
+- 🚀 Focused on building practical projects and becoming **job-ready**
 
 ---
 
-## 🚀 Current Project
+## 🚀 Featured Project
 
 ### 🤖 AI Powered Customer Feedback Intelligence System
 
-An AI-powered application designed to process customer feedback and generate useful insights using an agent-based architecture.
+An AI-powered application that processes customer feedback and generates useful insights using an **agent-based architecture**.
 
-**Tech / Concepts:**
+**Tech & Concepts:**
 
 `Python` `AI Agents` `LLMs` `Azure AI` `Agent Orchestration` `Web Search` `Code Interpreter`
 
@@ -48,7 +44,7 @@ https://github.com/neha-alhat26/08-agent-orchestration
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
@@ -57,7 +53,7 @@ https://github.com/neha-alhat26/08-agent-orchestration
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 </p>
 
-### ⚙️ Backend & Web Development
+### ⚙️ Backend & Web
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
@@ -65,7 +61,7 @@ https://github.com/neha-alhat26/08-agent-orchestration
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
 </p>
 
-`REST APIs` `Spring Boot` `Django` `React`
+`Java` `Spring Boot` `REST APIs` `Django` `React`
 
 ### 🗄️ Databases
 
@@ -77,7 +73,7 @@ https://github.com/neha-alhat26/08-agent-orchestration
 
 `MySQL` `PostgreSQL` `MongoDB`
 
-### ☁️ Cloud, Tools & DevOps
+### ☁️ Cloud & Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
@@ -88,31 +84,20 @@ https://github.com/neha-alhat26/08-agent-orchestration
 
 `Git` `GitHub` `Linux` `Azure` `Postman`
 
-### 🤖 AI & Automation
+### 🤖 AI Engineering
 
 `LLM Applications` `AI Agents` `RAG` `Prompt Engineering` `AI Evaluation` `Azure AI` `Agent Orchestration`
 
 ---
 
-## 📚 Currently Learning
+## 📌 Currently Focused On
 
-```text
-Core Java
-   ↓
-Object-Oriented Programming
-   ↓
-Collections • Generics • Exceptions • Streams
-   ↓
-SQL & Database Fundamentals
-   ↓
-Spring Boot
-   ↓
-REST API Development
-   ↓
-JPA / Hibernate
-   ↓
-Spring Security & JWT
-   ↓
-Testing & Docker
-   ↓
-Production Backend Projects
+**Java Backend Development** • **Spring Boot** • **REST APIs** • **AI Engineering** • **Backend Projects**
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **backend development, AI engineering, and building practical software projects**.
+
+Feel free to explore my repositories and connect with me!
